@@ -56,7 +56,7 @@ public class Main {
 
 						} else if (anotherchoice == 2) {
 							System.out.println("the names are" + name.toString());
-							System.out.println("and there corresponding years are " + salary.toString());
+							System.out.println("and there corresponding years are " + collegeyear.toString());
 						}
 
 					}
